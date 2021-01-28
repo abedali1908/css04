@@ -1,0 +1,36 @@
+
+.sec{
+    background-color: chocolate;
+   border: 1px solid red;
+   height: 120px;
+   font-size: x-large;
+}
+
+.abed{
+border: 1px solid orangered;
+text-align: center ;margin-top: 50px;
+
+width: 30%;
+height: 400px;
+border-radius: 20px;
+float: left;
+margin: 10px;
+}
+.ct{
+    color: red;
+}
+.cy{
+    color: green;
+}
+.cu{
+    color: blue;
+}
+.ci{
+    color: red;
+}
+.bb{
+    color: rgba(3, 145, 3, 0.918);
+}
+.nn{
+    color: rgb(158, 6, 112);
+}
